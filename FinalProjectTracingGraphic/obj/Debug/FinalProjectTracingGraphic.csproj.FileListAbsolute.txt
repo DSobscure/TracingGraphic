@@ -1,0 +1,9 @@
+C:\Users\Phantasm\Desktop\數值方法\FinalProjectTracingGraphic\FinalProjectTracingGraphic\bin\Debug\FinalProjectTracingGraphic.exe.config
+C:\Users\Phantasm\Desktop\數值方法\FinalProjectTracingGraphic\FinalProjectTracingGraphic\bin\Debug\FinalProjectTracingGraphic.exe
+C:\Users\Phantasm\Desktop\數值方法\FinalProjectTracingGraphic\FinalProjectTracingGraphic\bin\Debug\FinalProjectTracingGraphic.pdb
+C:\Users\Phantasm\Desktop\數值方法\FinalProjectTracingGraphic\FinalProjectTracingGraphic\obj\Debug\FinalProjectTracingGraphic.csprojResolveAssemblyReference.cache
+C:\Users\Phantasm\Desktop\數值方法\FinalProjectTracingGraphic\FinalProjectTracingGraphic\obj\Debug\FinalProjectTracingGraphic.Properties.Resources.resources
+C:\Users\Phantasm\Desktop\數值方法\FinalProjectTracingGraphic\FinalProjectTracingGraphic\obj\Debug\FinalProjectTracingGraphic.csproj.GenerateResource.Cache
+C:\Users\Phantasm\Desktop\數值方法\FinalProjectTracingGraphic\FinalProjectTracingGraphic\obj\Debug\FinalProjectTracingGraphic.exe
+C:\Users\Phantasm\Desktop\數值方法\FinalProjectTracingGraphic\FinalProjectTracingGraphic\obj\Debug\FinalProjectTracingGraphic.pdb
+C:\Users\Phantasm\Desktop\數值方法\FinalProjectTracingGraphic\FinalProjectTracingGraphic\obj\Debug\FinalProjectTracingGraphic.TracingPictureForm.resources
